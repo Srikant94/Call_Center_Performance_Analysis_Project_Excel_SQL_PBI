@@ -74,9 +74,7 @@ Call center operations were facing multiple critical challenges:
 
 # 📸 Dashboard Insights  
 
-## 📌 Executive Overview  
-
-📸 *(Add Screenshot – Executive Dashboard)*  
+## 📌 Executive Overview 
 
 <img width="1517" height="855" alt="Executive Overview" src="https://github.com/user-attachments/assets/6fa355a2-6137-4b69-812c-7fd724842d8a" />
 
@@ -98,12 +96,9 @@ Call center operations were facing multiple critical challenges:
 - 🔁 **Reopen rate indicates quality issues**  
   → Many tickets are not resolved in first attempt  
 
-## 📌 Operational Efficiency  
-
-📸 *(Add Screenshot – Operational Dashboard)*  
+## 📌 Operational Efficiency    
 
 <img width="1518" height="854" alt="Operational Efficiency" src="https://github.com/user-attachments/assets/63c870ac-b6c9-4882-9fbc-762c4efa61f4" />
-<img width="1516" height="854" alt="Performance Analysis" src="https://github.com/user-attachments/assets/e7f48b33-3ce6-4e69-9767-9a6f9590b754" />
 
 ### Key Metrics  
 
@@ -122,9 +117,7 @@ Call center operations were facing multiple critical challenges:
 - 💬 **Chat wait times are high**  
   → Poor real-time experience  
 
-## 📌 Performance & SLA  
-
-📸 *(Add Screenshot – SLA Dashboard)*  
+## 📌 Performance & SLA   
 
 <img width="1516" height="854" alt="Performance Analysis" src="https://github.com/user-attachments/assets/0effe010-3378-4958-b524-b890de28c72a" />
 
@@ -146,9 +139,7 @@ Call center operations were facing multiple critical challenges:
 - 📊 **Channel-wise SLA varies**  
   → Email & Chat drive most breaches  
 
-## 📌 Customer Experience  
-
-📸 *(Add Screenshot – Customer Dashboard)*  
+## 📌 Customer Experience   
 
 <img width="1522" height="858" alt="Customer Experience" src="https://github.com/user-attachments/assets/368b3951-c2cd-4344-8cd6-28b9c728b6f7" />
 
