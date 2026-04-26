@@ -102,9 +102,9 @@ Call center operations were facing multiple critical challenges:
 
 ### Key Metrics  
 
-- **Voice Resolution Time:** ~18 hours  
-- **Chat Resolution Time:** ~42 hours  
-- **Email Resolution Time:** ~87 hours  
+- **Voice Resolution Time:** ~0.7 hours  
+- **Chat Resolution Time:** ~1.7 hours  
+- **Email Resolution Time:** ~16.52 hours  
 
 ### Insights  
 
@@ -146,13 +146,13 @@ Call center operations were facing multiple critical challenges:
 ### Key Metrics  
 
 - **Average CSAT:** 3.7 / 5  
-- **Voice CSAT:** ~4.1  
-- **Chat CSAT:** ~3.6  
-- **Email CSAT:** ~2.9  
+- **Voice CSAT:** ~3.8  
+- **Chat CSAT:** ~3.8 
+- **Email CSAT:** ~3.3  
 
 ### Insights  
 
-- 📧 **Email has lowest CSAT (~2.9)**  
+- 📧 **Email has lowest CSAT (~3.3)**  
   → Strong correlation with slow resolution  
 
 - ⚠️ **DSAT is significant**  
@@ -162,8 +162,6 @@ Call center operations were facing multiple critical challenges:
   → Fast response → higher satisfaction  
 
 ## 📌 Agent Performance  
-
-📸 *(Add Screenshot – Agent Dashboard)*  
 
 <img width="1520" height="856" alt="Team Performance" src="https://github.com/user-attachments/assets/b9a89948-32e0-4c0c-8231-a4fbbe3c0e86" />
 
